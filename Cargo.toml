@@ -1,0 +1,5 @@
+[package]
+name = "syscall"
+version = "0.1.0"
+authors = ["Conor Patrick <conor@solokeys.com>"]
+edition = "2018"
